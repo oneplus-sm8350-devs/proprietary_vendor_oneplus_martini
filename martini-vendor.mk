@@ -823,6 +823,7 @@ PRODUCT_PACKAGES += \
     libPerfectlyClearCruxOpt \
     libPolarrRender \
     libPreviewDecisionOld \
+    libQnnHtpAltPrepStub \
     libQnnHtpStub \
     libSNPE \
     libSNPE_G \
